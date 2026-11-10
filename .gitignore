@@ -1,0 +1,6 @@
+data/raw/
+.env
+*.lic
+gurobi.lic
+__pycache__/
+*.py[cod]
