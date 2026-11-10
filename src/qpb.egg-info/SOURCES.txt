@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/qpb/__init__.py
+src/qpb/credentials.py
+src/qpb.egg-info/PKG-INFO
+src/qpb.egg-info/SOURCES.txt
+src/qpb.egg-info/dependency_links.txt
+src/qpb.egg-info/top_level.txt
+src/qpb/solvers/__init__.py
